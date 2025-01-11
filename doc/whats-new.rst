@@ -14,7 +14,7 @@ What's New
 
     np.random.seed(123456)
 
-.. _whats-new.2024.10.1:s
+.. _whats-new.2024.10.1:
 
 v.2024.10.1 (unreleased)
 ------------------------
